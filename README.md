@@ -1,6 +1,8 @@
 # IndyPy Python Web Shootout
 
-[IndyPy](http://www.meetup.com/python-182/) is having a Python Web Shootout to compare several popular [Python](http://python.org) based web frameworks. The goal is to see how the frameworks compare from a developer perspective.
+[IndyPy](http://www.meetup.com/python-182/) had a Python Web Shootout to compare several popular [Python](http://python.org) based web frameworks. The goal was to see how the frameworks compare from a developer perspective.
+
+Videos from the event are [now available on YouTube](https://www.youtube.com/playlist?list=PLt4L3V8wVnF6QidryQvfCwsi7u4rwIZoP)
 
 More [details about the event](http://www.meetup.com/python-182/events/102006952/) are on the Meetup site.
 
@@ -27,13 +29,17 @@ This will show off the following features: CRUD, MVC, authentication, authorizat
 
 <dl>
 <dt><a href="http://bottlepy.org/">Bottle</a></dt>
-<dd>See the <a href="https://github.com/indypy/todo_bottle_example">implementation</a></dd>
+<dd>Read the <a href="https://github.com/indypy/todo_bottle_example">code</a></dd>
+<dd>Watch the <a href="http://youtu.be/GaiFne-jQQ8?list=PLt4L3V8wVnF6QidryQvfCwsi7u4rwIZoP">presentation</a></dd>
 <dt><a href="https://www.djangoproject.com/">Django</a></dt>
-<dd>See the <a href="https://github.com/indypy/todo-django">implementation</a></dd>
+<dd>Read the <a href="https://github.com/indypy/todo-django">code</a></dd>
+<dd>Watch the <a href="http://youtu.be/qNMQ8J8HquY?list=PLt4L3V8wVnF6QidryQvfCwsi7u4rwIZoP">presentation</a></dd>
 <dt><a href="http://flask.pocoo.org/">Flask</a></dt>
-<dd>See the <a href="https://github.com/indypy/todoflask">implementation</a></dd>
+<dd>Read the <a href="https://github.com/indypy/todoflask">code</a></dd>
+<dd>Watch the <a href="http://youtu.be/ETcwdj8iUNI?list=PLt4L3V8wVnF6QidryQvfCwsi7u4rwIZoP">presentation</a></dd>
 <dt><a href="http://www.pylonsproject.org/projects/pyramid/about">Pyramid</a></dt>
-<dd>See the <a href="https://github.com/indypy/todopyramid">implementation</a></dd>
+<dd>Read the <a href="https://github.com/indypy/todopyramid">code</a></dd>
+<dd>Watch the <a href="http://youtu.be/gNtPAFPMBKM?list=PLt4L3V8wVnF6QidryQvfCwsi7u4rwIZoP">presentation</a></dd>
 </dl>
 
 ## Future Shootouts
